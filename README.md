@@ -19,7 +19,7 @@ Homebrew tool for modded Switch 2s running kaiHEN to allow installing game updat
 1. Install Local Update Tool by downloading the latest version from Releases and placing it as `/switch/local-update-tool/local-update-tool.nro` on your SD card.
 2. On the modded Switch 2, launch Local Update Tool from hbmenu, and create a room for the game you'd like to transfer update data for.
 3. On the stock console, press + on the game and navigate to Software Update -> Match Version With Local Users, then join the room created by your Switch 2.
-4. On the modded Switch 2, press A to start and begin transferring the update data.
+4. On the modded Switch 2, press A to start and begin transferring the update data. (The modded Switch 2 will always install the update from the unmodded one, not the other way around.)
 
 ## Building:
 
